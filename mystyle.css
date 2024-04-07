@@ -3,7 +3,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: auto;
+  width: 150px;
   height: 200px;
   background: #808080 }
 
@@ -19,6 +19,6 @@
   position: absolute;
   top: 200px;
   left: 250px;
-  width: auto;
+  width: 150px;
   height: auto;
   background: white }
