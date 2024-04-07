@@ -2,8 +2,8 @@
 #header {
   position: absolute;
   top: 0;
-  left: 250px;
-  width: 750px;
+  left: 0;
+  width: auto;
   height: 200px;
   background: #111111 }
 
@@ -19,6 +19,6 @@
   position: absolute;
   top: 200px;
   left: 250px;
-  width: 750px;
+  width: auto;
   height: auto;
   background: white }
